@@ -1,0 +1,200 @@
+{
+  "schema": "ncc-rpg-avyrpg-options-v1",
+  "version": "1.0.0",
+  "updatedAt": "2026-06-28",
+  "description": "Lista externa de opções AVYRPG para o NCC RPG.",
+  "items": [
+    {
+      "id": "avyrpg-01",
+      "name": "AVYRPG 01",
+      "url": "https://images.neopets.com/themes/031_skr_8944c/rotations/5.png",
+      "themeId": "031_skr_8944c",
+      "rotation": 5,
+      "enabled": true
+    },
+    {
+      "id": "avyrpg-02",
+      "name": "AVYRPG 02",
+      "url": "https://images.neopets.com/themes/032_ord_635af/rotations/1.png",
+      "themeId": "032_ord_635af",
+      "rotation": 1,
+      "enabled": true
+    },
+    {
+      "id": "avyrpg-03",
+      "name": "AVYRPG 03",
+      "url": "https://images.neopets.com/themes/032_ord_635af/rotations/2.png",
+      "themeId": "032_ord_635af",
+      "rotation": 2,
+      "enabled": true
+    },
+    {
+      "id": "avyrpg-04",
+      "name": "AVYRPG 04",
+      "url": "https://images.neopets.com/themes/032_ord_635af/rotations/4.png",
+      "themeId": "032_ord_635af",
+      "rotation": 4,
+      "enabled": true
+    },
+    {
+      "id": "avyrpg-05",
+      "name": "AVYRPG 05",
+      "url": "https://images.neopets.com/themes/032_ord_635af/rotations/5.png",
+      "themeId": "032_ord_635af",
+      "rotation": 5,
+      "enabled": true
+    },
+    {
+      "id": "avyrpg-06",
+      "name": "AVYRPG 06",
+      "url": "https://images.neopets.com/themes/033_swy_82090/rotations/5.png",
+      "themeId": "033_swy_82090",
+      "rotation": 5,
+      "enabled": true
+    },
+    {
+      "id": "avyrpg-07",
+      "name": "AVYRPG 07",
+      "url": "https://images.neopets.com/themes/034_tvg_yg724/rotations/4.png",
+      "themeId": "034_tvg_yg724",
+      "rotation": 4,
+      "enabled": true
+    },
+    {
+      "id": "avyrpg-08",
+      "name": "AVYRPG 08",
+      "url": "https://images.neopets.com/themes/034_tvg_yg724/rotations/5.png",
+      "themeId": "034_tvg_yg724",
+      "rotation": 5,
+      "enabled": true
+    },
+    {
+      "id": "avyrpg-09",
+      "name": "AVYRPG 09",
+      "url": "https://images.neopets.com/themes/035_tmo_we6g3/rotations/10.png",
+      "themeId": "035_tmo_we6g3",
+      "rotation": 10,
+      "enabled": true
+    },
+    {
+      "id": "avyrpg-10",
+      "name": "AVYRPG 10",
+      "url": "https://images.neopets.com/themes/037_hmh_f7k8s/rotations/3.png",
+      "themeId": "037_hmh_f7k8s",
+      "rotation": 3,
+      "enabled": true
+    },
+    {
+      "id": "avyrpg-11",
+      "name": "AVYRPG 11",
+      "url": "https://images.neopets.com/themes/037_hmh_f7k8s/rotations/8.png",
+      "themeId": "037_hmh_f7k8s",
+      "rotation": 8,
+      "enabled": true
+    },
+    {
+      "id": "avyrpg-12",
+      "name": "AVYRPG 12",
+      "url": "https://images.neopets.com/themes/037_hmh_f7k8s/rotations/9.png",
+      "themeId": "037_hmh_f7k8s",
+      "rotation": 9,
+      "enabled": true
+    },
+    {
+      "id": "avyrpg-13",
+      "name": "AVYRPG 13",
+      "url": "https://images.neopets.com/themes/037_hmh_f7k8s/rotations/12.png",
+      "themeId": "037_hmh_f7k8s",
+      "rotation": 12,
+      "enabled": true
+    },
+    {
+      "id": "avyrpg-14",
+      "name": "AVYRPG 14",
+      "url": "https://images.neopets.com/themes/042_roo_2s6am/rotations/3.png",
+      "themeId": "042_roo_2s6am",
+      "rotation": 3,
+      "enabled": true
+    },
+    {
+      "id": "avyrpg-15",
+      "name": "AVYRPG 15",
+      "url": "https://images.neopets.com/themes/042_roo_2s6am/rotations/4.png",
+      "themeId": "042_roo_2s6am",
+      "rotation": 4,
+      "enabled": true
+    },
+    {
+      "id": "avyrpg-16",
+      "name": "AVYRPG 16",
+      "url": "https://images.neopets.com/themes/042_roo_2s6am/rotations/7.png",
+      "themeId": "042_roo_2s6am",
+      "rotation": 7,
+      "enabled": true
+    },
+    {
+      "id": "avyrpg-17",
+      "name": "AVYRPG 17",
+      "url": "https://images.neopets.com/themes/043_tyr_e4uc5/rotations/2.png",
+      "themeId": "043_tyr_e4uc5",
+      "rotation": 2,
+      "enabled": true
+    },
+    {
+      "id": "avyrpg-18",
+      "name": "AVYRPG 18",
+      "url": "https://images.neopets.com/themes/043_tyr_e4uc5/rotations/6.png",
+      "themeId": "043_tyr_e4uc5",
+      "rotation": 6,
+      "enabled": true
+    },
+    {
+      "id": "avyrpg-19",
+      "name": "AVYRPG 19",
+      "url": "https://images.neopets.com/themes/047_meridel_july2018/rotations/2.png",
+      "themeId": "047_meridel_july2018",
+      "rotation": 2,
+      "enabled": true
+    },
+    {
+      "id": "avyrpg-20",
+      "name": "AVYRPG 20",
+      "url": "https://images.neopets.com/themes/047_meridel_july2018/rotations/3.png",
+      "themeId": "047_meridel_july2018",
+      "rotation": 3,
+      "enabled": true
+    },
+    {
+      "id": "avyrpg-21",
+      "name": "AVYRPG 21",
+      "url": "https://images.neopets.com/themes/047_meridel_july2018/rotations/4.png",
+      "themeId": "047_meridel_july2018",
+      "rotation": 4,
+      "enabled": true
+    },
+    {
+      "id": "avyrpg-22",
+      "name": "AVYRPG 22",
+      "url": "https://images.neopets.com/themes/047_meridel_july2018/rotations/5.png",
+      "themeId": "047_meridel_july2018",
+      "rotation": 5,
+      "enabled": true
+    },
+    {
+      "id": "avyrpg-23",
+      "name": "AVYRPG 23",
+      "url": "https://images.neopets.com/themes/048_brightvale_aug2018/rotations/1.png",
+      "themeId": "048_brightvale_aug2018",
+      "rotation": 1,
+      "enabled": true
+    },
+    {
+      "id": "avyrpg-24",
+      "name": "AVYRPG 24",
+      "url": "https://images.neopets.com/themes/048_brightvale_aug2018/rotations/5.png",
+      "themeId": "048_brightvale_aug2018",
+      "rotation": 5,
+      "enabled": true
+    }
+  ]
+}
